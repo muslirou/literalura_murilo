@@ -41,8 +41,7 @@ Você pode acessar o projeto diretamente no GitHub através do [link do reposit�
 - **IDE:** IntelliJ IDEA
 
 ## Pessoa Desenvolvedora do Projeto
-
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/157545299?v=4" width=115><br><sub>Murilo Domingues</sub>](https://github.com/muslirou) | 
+ 
 |:----------------------------------------------------------------------------------------------------------------------------------------------------:|
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-domingues-6023b0152/)
 
